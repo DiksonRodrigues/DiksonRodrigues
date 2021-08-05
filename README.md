@@ -8,8 +8,8 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?DiksonRodrigues=anuraghazra&show_icons=true&theme=radical"/>
-  
+  <a href="https://beacons.ai/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diksonrodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diksonrodrigues&layout=compact&langs_count=16&theme=dark"/>
 </div>
