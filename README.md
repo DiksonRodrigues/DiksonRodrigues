@@ -1,8 +1,7 @@
 ### Fala galera, seja bem vindo ao meu perfil.👋😎
 
 - 🔭 Sou especialista FrontEnd, trabalho principalmente com JavaScript 
-- 💙ReactJs e ReactNative é minha paixão💙
-- 🚀 Tenho trabalhado bastante com projetos bastante relavantes dentro de empresas de TI
+- 🚀 Tenho trabalhado bastante com projetos relavantes dentro de empresas de TI
 - 🏖 Meu hobby além da programação é jogar um bom Voley🏐
 - 💬 Você pode entrar em contato pelo - email eoscreativetech@gmail.com
   
