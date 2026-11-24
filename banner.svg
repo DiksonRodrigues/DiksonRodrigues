@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Dikson Rodrigues - Automation, AI, Dashboards, Systems">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="0%" stop-color="#02040a"/>
       <stop offset="50%" stop-color="#050a14"/>
-      <stop offset="100%" stop-color="#0d1b2a"/>
+      <stop offset="100%" stop-color="#0a1428"/>
     </linearGradient>
     <linearGradient id="metal" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#e8ecf0"/>
+      <stop offset="0%" stop-color="#f0f4f8"/>
       <stop offset="40%" stop-color="#c9d1d9"/>
       <stop offset="60%" stop-color="#8a93a3"/>
       <stop offset="100%" stop-color="#c9d1d9"/>
@@ -30,33 +30,63 @@
   </defs>
 
   <rect width="1280" height="320" fill="url(#bg)"/>
-  <rect width="1280" height="320" fill="url(#hex)" opacity="0.5"/>
+  <rect width="1280" height="320" fill="url(#hex)" opacity="0.35"/>
 
-  <!-- circuit lines -->
+  <!-- twinkle stars -->
+  <g fill="#ffffff">
+    <circle cx="60" cy="40" r="1"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.3s" repeatCount="indefinite"/></circle>
+    <circle cx="180" cy="90" r="1.2"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="320" cy="50" r="0.9"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="480" cy="30" r="1.1"><animate attributeName="opacity" values="0.4;1;0.4" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="640" cy="70" r="0.8"><animate attributeName="opacity" values="0.2;0.7;0.2" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="780" cy="40" r="1.3"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.3s" repeatCount="indefinite"/></circle>
+    <circle cx="920" cy="80" r="0.9"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="1080" cy="35" r="1.1"><animate attributeName="opacity" values="0.4;1;0.4" dur="3.0s" repeatCount="indefinite"/></circle>
+    <circle cx="1220" cy="95" r="1.0"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="120" cy="260" r="0.9"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="400" cy="280" r="1.0"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="860" cy="270" r="1.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1150" cy="250" r="0.9"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- shooting star -->
+  <g filter="url(#glow)">
+    <line x1="0" y1="0" x2="60" y2="0" stroke="#00b4d8" stroke-width="2" stroke-linecap="round" opacity="0.9">
+      <animateMotion path="M -80 40 Q 200 120 420 200" dur="3s" repeatCount="indefinite" begin="0s"/>
+      <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/>
+    </line>
+    <circle r="2" fill="#ffffff">
+      <animateMotion path="M -80 40 Q 200 120 420 200" dur="3s" repeatCount="indefinite" begin="0s"/>
+      <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g filter="url(#glow)">
+    <line x1="0" y1="0" x2="50" y2="0" stroke="#c9d1d9" stroke-width="1.5" stroke-linecap="round" opacity="0.8">
+      <animateMotion path="M 1360 60 Q 1100 140 880 220" dur="4.2s" repeatCount="indefinite" begin="1.5s"/>
+      <animate attributeName="opacity" values="0;0.9;0" dur="4.2s" repeatCount="indefinite" begin="1.5s"/>
+    </line>
+    <circle r="1.6" fill="#c9d1d9">
+      <animateMotion path="M 1360 60 Q 1100 140 880 220" dur="4.2s" repeatCount="indefinite" begin="1.5s"/>
+      <animate attributeName="opacity" values="0;0.9;0" dur="4.2s" repeatCount="indefinite" begin="1.5s"/>
+    </circle>
+  </g>
+
+  <!-- circuit lines (static) -->
   <g stroke="#00b4d8" stroke-width="1" opacity="0.35" filter="url(#glow)">
-    <path d="M0 80 H260 L300 120 H520"/>
-    <path d="M1280 240 H1020 L980 200 H760"/>
-    <path d="M0 260 H180 L220 220 H400"/>
-    <path d="M1280 60 H1100 L1060 100 H880"/>
+    <path d="M0 100 H200 L240 140 H460"/>
+    <path d="M1280 220 H1080 L1040 180 H820"/>
   </g>
-  <!-- nodes -->
   <g fill="#00b4d8" filter="url(#glow)">
-    <circle cx="260" cy="80" r="3"/><circle cx="300" cy="120" r="3"/><circle cx="520" cy="120" r="3"/>
-    <circle cx="1020" cy="240" r="3"/><circle cx="980" cy="200" r="3"/><circle cx="760" cy="200" r="3"/>
-    <circle cx="180" cy="260" r="3"/><circle cx="220" cy="220" r="3"/><circle cx="400" cy="220" r="3"/>
-    <circle cx="1100" cy="60" r="3"/><circle cx="1060" cy="100" r="3"/><circle cx="880" cy="100" r="3"/>
+    <circle cx="200" cy="100" r="3"/><circle cx="240" cy="140" r="3"/><circle cx="460" cy="140" r="3"/>
+    <circle cx="1080" cy="220" r="3"/><circle cx="1040" cy="180" r="3"/><circle cx="820" cy="180" r="3"/>
   </g>
-
-  <!-- scan line -->
-  <rect x="0" y="158" width="1280" height="1" fill="url(#cyan)" opacity="0.6"/>
 
   <!-- title -->
-  <text x="640" y="138" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="62" font-weight="800" fill="url(#metal)" filter="url(#softglow)" letter-spacing="2">Dikson Rodrigues</text>
-  <!-- subtitle -->
-  <text x="640" y="182" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="20" font-weight="500" fill="#00b4d8" letter-spacing="6">AUTOMATION  ·  AI  ·  DASHBOARDS  ·  SYSTEMS</text>
+  <text x="640" y="140" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="64" font-weight="800" fill="url(#metal)" letter-spacing="2">Dikson Rodrigues</text>
+  <text x="640" y="184" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="20" font-weight="500" fill="#00b4d8" letter-spacing="6">AUTOMATION  ·  AI  ·  DASHBOARDS  ·  SYSTEMS</text>
 
   <!-- bottom accent bar -->
-  <rect x="440" y="205" width="400" height="2" fill="url(#cyan)" opacity="0.8"/>
+  <rect x="440" y="208" width="400" height="2" fill="url(#cyan)" opacity="0.8"/>
 
   <!-- corner brackets -->
   <g stroke="#c9d1d9" stroke-width="1.5" fill="none" opacity="0.6">
