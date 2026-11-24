@@ -2,10 +2,6 @@
 
 <img src="banner.svg" alt="Dikson Rodrigues - Automation, AI, Dashboards, Systems" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=760&lines=Automations+that+move+real+business;AI-driven+development+%26+dashboards;Systems+end-to-end%2C+from+idea+to+production" alt="typing" />
-
-<br/>
-
 <a href="https://www.linkedin.com/in/dikson-rodrigues-562b351a3"><img src="https://img.shields.io/badge/LinkedIn-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=c9d1d9" alt="LinkedIn"/></a>
 <a href="mailto:eoscreativetech@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=c9d1d9" alt="Email"/></a>
 <a href="https://github.com/DiksonRodrigues"><img src="https://img.shields.io/badge/GitHub-0d1b2a?style=for-the-badge&logo=github&logoColor=c9d1d9" alt="GitHub"/></a>
