@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="banner.svg" alt="Dikson Rodrigues - Automation, AI, Dashboards, Systems" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:050a14,70:0d1b2a,100:1b263b&height=220&section=header&text=Dikson%20Rodrigues&fontSize=56&fontColor=c9d1d9&fontAlignY=36&desc=Automation%20%C2%B7%20AI%20%C2%B7%20Dashboards%20%C2%B7%20Systems&descSize=17&descAlignY=58&animation=fadeIn&stroke=00b4d8&strokeWidth=1" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=720&lines=Automations+that+move+real+business;AI-driven+development+%26+dashboards;Systems+end-to-end%2C+from+idea+to+production" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=760&lines=Automations+that+move+real+business;AI-driven+development+%26+dashboards;Systems+end-to-end%2C+from+idea+to+production" alt="typing" />
 
 <br/>
 
