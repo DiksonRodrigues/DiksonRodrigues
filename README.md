@@ -76,6 +76,4 @@ Engenheiro de software com foco em **automação**, **IA aplicada**, **dashboard
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b263b,50:0d1b2a,100:000000&height=100&section=footer" alt="footer" />
 
-<sub>· azul escuro · preto · metálico · especialista ·</sub>
-
 </div>
