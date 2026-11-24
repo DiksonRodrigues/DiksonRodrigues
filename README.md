@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="banner.svg" alt="Dikson Rodrigues - Automation, AI, Dashboards, Systems" width="100%" />
 
@@ -16,9 +16,9 @@
 
 ### `// sobre`
 
-Engenheiro de software com foco em **automaÃ§Ã£o**, **IA aplicada**, **dashboards** e **sistemas end-to-end**. Construo soluÃ§Ãµes que saem do papel e rodam em produÃ§Ã£o â€” da extraÃ§Ã£o de dados Ã  interface final, do backend ao deploy.
+Engenheiro de software com foco em **automação**, **IA aplicada**, **dashboards** e **sistemas end-to-end**. Construo soluções que saem do papel e rodam em produção — da extração de dados à interface final, do backend ao deploy.
 
-> *"CÃ³digo limpo, reutilizÃ¡vel e que resolve o problema de verdade."*
+> *"Código limpo, reutilizável e que resolve o problema de verdade."*
 
 ---
 
@@ -28,27 +28,27 @@ Engenheiro de software com foco em **automaÃ§Ã£o**, **IA aplicada**, **dashb
 <tr>
 <td width="50%" valign="top">
 
-**AutomaÃ§Ãµes**
+**Automações**
 - RPA e pipelines de dados (Python, requests, pandas)
-- IntegraÃ§Ã£o com APIs governamentais (Receita Federal, SERPRO)
-- Processamento em lote e relatÃ³rios automatizados
+- Integração com APIs governamentais (Receita Federal, SERPRO)
+- Processamento em lote e relatórios automatizados
 
 **IA & Desenvolvimento com IA**
 - Assistentes e agentes com LLMs
-- GeraÃ§Ã£o e revisÃ£o de cÃ³digo assistida por IA
-- ClassificaÃ§Ã£o e anÃ¡lise de dados com modelos
+- Geração e revisão de código assistida por IA
+- Classificação e análise de dados com modelos
 
 </td>
 <td width="50%" valign="top">
 
 **Dashboards & Sistemas**
-- Dashboards analÃ­ticos (React, Chart.js, mÃ©tricas em tempo real)
+- Dashboards analíticos (React, Chart.js, métricas em tempo real)
 - Sistemas web full-stack (Flask, FastAPI, Vercel serverless)
-- Cofres criptografados, autenticaÃ§Ã£o e seguranÃ§a de dados
+- Cofres criptografados, autenticação e segurança de dados
 
 **Stack principal**
-- Python Â· TypeScript Â· JavaScript Â· React Â· Flask Â· FastAPI
-- PostgreSQL Â· Supabase Â· SQLite Â· Vercel Â· Git/GitHub
+- Python · TypeScript · JavaScript · React · Flask · FastAPI
+- PostgreSQL · Supabase · SQLite · Vercel · Git/GitHub
 
 </td>
 </tr>
@@ -58,16 +58,16 @@ Engenheiro de software com foco em **automaÃ§Ã£o**, **IA aplicada**, **dashb
 
 ### `// projetos em destaque`
 
-| Projeto | DescriÃ§Ã£o | Stack |
+| Projeto | Descrição | Stack |
 |---|---|---|
-| [**Monitor CBS**](https://github.com/DiksonRodrigues/monitor-cbs) | ApuraÃ§Ã£o assistida da CBS integrada Ã  Receita Federal: solicitaÃ§Ã£o, acompanhamento em atÃ© 4h, download do retorno, painel e conferÃªncia Receita Ã— razÃ£o | Flask Â· HTML/CSS/JS Â· Vercel Â· Supabase |
-| [**Calculadora RTC**](https://github.com/DiksonRodrigues/automacao-calculadora-rtc) | AutomaÃ§Ã£o que processa 500 operaÃ§Ãµes na calculadora oficial da Receita (CBS/IBS/IS), com relatÃ³rio Excel e memÃ³ria de cÃ¡lculo | Python Â· Java/Spring Boot Â· SQLite |
-| [**UrbanFlow Dashboard**](https://github.com/DiksonRodrigues/urbanflow-dashboard) | Dashboard analÃ­tico de mobilidade urbana | React Â· Chart.js |
+| [**Monitor CBS**](https://github.com/DiksonRodrigues/monitor-cbs) | Apuração assistida da CBS integrada à Receita Federal: solicitação, acompanhamento em até 4h, download do retorno, painel e conferência Receita × razão | Flask · HTML/CSS/JS · Vercel · Supabase |
+| [**Calculadora RTC**](https://github.com/DiksonRodrigues/automacao-calculadora-rtc) | Automação que processa 500 operações na calculadora oficial da Receita (CBS/IBS/IS), com relatório Excel e memória de cálculo | Python · Java/Spring Boot · SQLite |
+| [**UrbanFlow Dashboard**](https://github.com/DiksonRodrigues/urbanflow-dashboard) | Dashboard analítico de mobilidade urbana | React · Chart.js |
 | [**Dash Wagner**](https://github.com/DiksonRodrigues/dashWagner) | Dashboard de indicadores | JavaScript |
 
 ---
 
-### `// nÃºmeros`
+### `// números`
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=DiksonRodrigues&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=00b4d8&text_color=9aa3ae" alt="stats" />
@@ -80,6 +80,6 @@ Engenheiro de software com foco em **automaÃ§Ã£o**, **IA aplicada**, **dashb
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b263b,50:0d1b2a,100:000000&height=100&section=footer" alt="footer" />
 
-<sub>Â· azul escuro Â· preto Â· metÃ¡lico Â· especialista Â·</sub>
+<sub>· azul escuro · preto · metálico · especialista ·</sub>
 
 </div>
